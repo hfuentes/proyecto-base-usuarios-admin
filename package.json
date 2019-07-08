@@ -1,0 +1,29 @@
+{
+  "name": "proyecto-base-usuarios-admin",
+  "version": "1.0.0",
+  "description": "Proyecto base usuario administrador",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfuentes/proyecto-base-usuarios-admin.git"
+  },
+  "keywords": [
+    "nodejs",
+    "firebase",
+    "express"
+  ],
+  "author": "Héctor Fuentes Gaete",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hfuentes/proyecto-base-usuarios-admin/issues"
+  },
+  "homepage": "https://github.com/hfuentes/proyecto-base-usuarios-admin#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.2.0",
+    "googleapis": "^40.0.1"
+  }
+}
