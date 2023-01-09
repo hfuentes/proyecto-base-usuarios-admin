@@ -23,7 +23,7 @@
   "homepage": "https://github.com/hfuentes/proyecto-base-usuarios-admin#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "firebase-admin": "^8.2.0",
+    "firebase-admin": "^11.4.1",
     "googleapis": "^40.0.1"
   }
 }
